@@ -17,4 +17,3 @@ apaixonado por tecnologia! :heartpulse:
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
-
