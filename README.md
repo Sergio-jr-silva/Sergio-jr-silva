@@ -1,26 +1,20 @@
-### Olá! eu sou Sérgio Silva 🖐
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-jr-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-silva-6928a4236/)
+# Olá, me chamo Sergio Silva :sunglasses:
+apaixonado por tecnologia! :heartpulse:
 
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-jr-silva&show_icons=true&theme=merko)
+<a href="https://www.linkedin.com/in/sergio-silva-6928a4236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:juniosergio034@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sergio_jrsilva/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+## Skills
 
-## Tecnologias que eu uso
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
 
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  
-  </div>
-  
- Apaixonado por Tecnologia!
- 
- ### ☎ Contato : juniosergio034@gmail.com
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-jr-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
