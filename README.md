@@ -8,9 +8,6 @@ Busco constantemente evoluir como profissional e criar soluções que façam a d
 ---
 
 
-
-
-
 ## 🛠️ Áreas que estou me desenvolvendo
 
 - Desenvolvimento de sistemas desktop com **C# e .NET**
