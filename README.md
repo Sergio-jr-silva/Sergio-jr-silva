@@ -10,7 +10,7 @@ Busco constantemente evoluir como profissional e criar soluções que façam a d
 
 ## 🛠️ Áreas que estou me desenvolvendo
 
-- Desenvolvimento de sistemas desktop com **C# e .NET**
+- Desenvolvimento de sistemas desktop com **Java e SpringBoot**
 - Integrações com **PowerShell** para automações em suporte técnico
 - Backend com **Java Spring Boot** e **Node.js**
 - Banco de dados com **MySQL**
